@@ -1,1 +1,1 @@
-fullstack-decal-sp23.github.io
+https://fullstack-decal-sp23.github.io/hw2-sepehrafiei/
